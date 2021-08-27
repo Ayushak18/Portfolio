@@ -1,0 +1,30 @@
+.profile-section {
+  padding: 50px;
+
+  i {
+    margin-right: 10px;
+    font-size: 20px;
+  }
+
+  a:hover {
+    color: rgb(248, 63, 63);
+  }
+
+  a {
+    color: black;
+    text-decoration: none;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: 46px;
+  }
+  .buttons {
+    margin: 16px 0;
+    button {
+      border: none;
+      padding: 5px 10px;
+      margin-right: 5px;
+    }
+  }
+}
