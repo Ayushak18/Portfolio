@@ -7,7 +7,10 @@ function Hero() {
     <React.Fragment>
       <section className="hero-section">
         <div className="hero-img">
-          <img src="sampleImg.jpg" alt="Profile Picture" />
+          <img
+            src="https://avatars.githubusercontent.com/u/38782643?v=4"
+            alt="Profile"
+          />
         </div>
         <Profile />
       </section>

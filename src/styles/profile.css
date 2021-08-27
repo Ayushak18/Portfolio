@@ -1,1 +1,33 @@
-/* No CSS *//*# sourceMappingURL=profile.css.map */
+.profile-section {
+  padding: 50px;
+}
+
+.profile-section i {
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.profile-section a:hover {
+  color: #f83f3f;
+}
+
+.profile-section a {
+  color: black;
+  text-decoration: none;
+}
+
+.profile-section h1 {
+  margin: 0;
+  font-size: 46px;
+}
+
+.profile-section .buttons {
+  margin: 16px 0;
+}
+
+.profile-section .buttons button {
+  border: none;
+  padding: 5px 10px;
+  margin-right: 5px;
+}
+/*# sourceMappingURL=profile.css.map */
