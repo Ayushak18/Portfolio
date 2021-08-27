@@ -1,1 +1,5 @@
-/* No CSS *//*# sourceMappingURL=description.css.map */
+.description-section p {
+  font-weight: 300;
+  line-height: 2;
+}
+/*# sourceMappingURL=description.css.map */
