@@ -1,5 +1,6 @@
 import React from 'react';
 import '../styles/header.css';
+import { NavLink } from 'react-router-dom';
 
 function Header() {
   return (
@@ -8,9 +9,21 @@ function Header() {
         <h1 className="portfolio-heading">AYUSH KAMBOJ</h1>
         <nav>
           <ul>
-            <li>ABOUT</li>
-            <li>PROJECTS</li>
-            <li>BLOGS</li>
+            <li>
+              <NavLink to="/" exact activeClassName="selected">
+                ABOUT
+              </NavLink>
+            </li>
+            <li>
+              <NavLink to="/projects" activeClassName="selected">
+                PROJECTS
+              </NavLink>
+            </li>
+            <li>
+              <NavLink to="/blogs" activeClassName="selected">
+                BLOGS
+              </NavLink>
+            </li>
           </ul>
         </nav>
       </section>
