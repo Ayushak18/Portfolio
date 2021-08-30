@@ -24,6 +24,15 @@ function Header() {
                 BLOGS
               </NavLink>
             </li>
+            <li>
+              <a
+                href="https://instahyre-2.s3-ap-south-1.amazonaws.com/media/resume/688236/ca9ebff68b/Aayush_Kamboj.pdf"
+                target="_blank"
+                rel="noreferrer"
+              >
+                RESUME
+              </a>
+            </li>
           </ul>
         </nav>
       </section>
