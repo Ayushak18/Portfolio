@@ -4,6 +4,7 @@
   }
   .project {
     display: flex;
+    align-items: center;
     border: 1px solid rgb(187, 187, 187);
     border-radius: 10px;
     margin: 50px 0;
@@ -18,7 +19,8 @@
 
     .project-description {
       margin-left: 20px;
-
+      margin-bottom: 30px;
+      // margin: 20px;
       p {
         margin-bottom: 30px;
       }

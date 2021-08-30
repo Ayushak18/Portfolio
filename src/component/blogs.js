@@ -6,7 +6,7 @@ function Blogs() {
       <h1 className="blog-section-heading">Blogs</h1>
       <div className="blog">
         <div className="blog-img">
-          <img src="laptop.jpg" alt="Project" />
+          <img src="switch.jpeg" alt="Project" />
         </div>
         <div className="blog-description">
           <h1>Switch Case- Its mechanism !</h1>
@@ -25,7 +25,7 @@ function Blogs() {
 
       <div className="blog">
         <div className="blog-img">
-          <img src="laptop.jpg" alt="Project" />
+          <img src="primitive.jpeg" alt="Project" />
         </div>
         <div className="blog-description">
           <h1>Primitive and Non Primitive Data Types in Javascript</h1>
@@ -44,7 +44,7 @@ function Blogs() {
 
       <div className="blog">
         <div className="blog-img">
-          <img src="laptop.jpg" alt="Project" />
+          <img src="Json.jpg" alt="Project" />
         </div>
         <div className="blog-description">
           <h1>Handling JSON/Form data in Express Application</h1>
@@ -63,7 +63,7 @@ function Blogs() {
 
       <div className="blog">
         <div className="blog-img">
-          <img src="laptop.jpg" alt="Project" />
+          <img src="connectingMongodb.jpg" alt="Project" />
         </div>
         <div className="blog-description">
           <h1>Connecting MongoDB with Express app using Mongoose JS</h1>
@@ -85,7 +85,7 @@ function Blogs() {
 
       <div className="blog">
         <div className="blog-img">
-          <img src="laptop.jpg" alt="Project" />
+          <img src="express.jpg" alt="Project" />
         </div>
         <div className="blog-description">
           <h1>Creating a server in NodeJS using Express JS</h1>
@@ -107,7 +107,7 @@ function Blogs() {
 
       <div className="blog">
         <div className="blog-img">
-          <img src="laptop.jpg" alt="Project" />
+          <img src="mongoShell.jpg" alt="Project" />
         </div>
         <div className="blog-description">
           <h1>MongoDB Shell and its Commands</h1>
@@ -128,7 +128,7 @@ function Blogs() {
 
       <div className="blog">
         <div className="blog-img">
-          <img src="laptop.jpg" alt="Project" />
+          <img src="cookie.jpg" alt="Project" />
         </div>
         <div className="blog-description">
           <h1>Creating cookies in NodeJS application</h1>
@@ -150,7 +150,7 @@ function Blogs() {
 
       <div className="blog">
         <div className="blog-img">
-          <img src="laptop.jpg" alt="Project" />
+          <img src="HTMLWHy.jpg" alt="Project" />
         </div>
         <div className="blog-description">
           <h1>Why HTML ?</h1>

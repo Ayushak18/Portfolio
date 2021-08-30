@@ -6,7 +6,7 @@ function Projects() {
       <h1 className="project-section-heading">Projects</h1>
       <div className="project">
         <div className="project-img">
-          <img src="laptop.jpg" alt="Project" />
+          <img src="blog.png" alt="Project" />
         </div>
         <div className="project-description">
           <h1>Blog Application</h1>
@@ -37,7 +37,7 @@ function Projects() {
       </div>
       <div className="project">
         <div className="project-img">
-          <img src="laptop.jpg" alt="Project" />
+          <img src="githubBattle.png" alt="Project" />
         </div>
         <div className="project-description">
           <h1>Github Battle Application </h1>
@@ -68,7 +68,7 @@ function Projects() {
       </div>
       <div className="project">
         <div className="project-img">
-          <img src="laptop.jpg" alt="Project" />
+          <img src="todo.png" alt="Project" />
         </div>
         <div className="project-description">
           <h1>To Do Application</h1>
@@ -98,7 +98,7 @@ function Projects() {
       </div>
       <div className="project">
         <div className="project-img">
-          <img src="laptop.jpg" alt="Project" />
+          <img src="buson.png" alt="Project" />
         </div>
         <div className="project-description">
           <h1>Cleaning Company Clone</h1>
