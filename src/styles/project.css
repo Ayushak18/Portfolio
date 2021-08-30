@@ -1,0 +1,53 @@
+.projects .project-section-heading {
+  text-align: center;
+}
+
+.projects .project {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  border: 1px solid #bbbbbb;
+  border-radius: 10px;
+  margin: 50px 0;
+}
+
+.projects .project .project-img img {
+  width: 300px;
+  height: 100%;
+  border-top-left-radius: 9px;
+  border-bottom-left-radius: 9px;
+}
+
+.projects .project .project-description {
+  margin-left: 20px;
+}
+
+.projects .project .project-description p {
+  margin-bottom: 30px;
+}
+
+.projects .project .project-description a {
+  text-decoration: none;
+  margin-right: 10px;
+  color: black;
+}
+
+.projects .project .project-description .demo-link,
+.projects .project .project-description .source-code {
+  padding: 10px 20px;
+  border: 1px solid #646464;
+  border-radius: 5px;
+}
+
+.projects .project .project-description .demo-link i,
+.projects .project .project-description .source-code i {
+  margin-right: 10px;
+}
+
+.projects .project .project-description .demo-link:hover,
+.projects .project .project-description .source-code:hover {
+  padding: 10px 20px;
+  background: black;
+  color: white;
+}
+/*# sourceMappingURL=project.css.map */
