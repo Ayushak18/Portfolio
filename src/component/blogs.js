@@ -13,7 +13,7 @@ function Blogs() {
           <p>Short Descrition</p>
           <a href="" className="demo-link">
             <i class="fas fa-book"></i>
-            Blog
+            Read
           </a>
         </div>
       </div>
