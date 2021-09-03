@@ -25,11 +25,7 @@ function Header() {
               </NavLink>
             </li>
             <li>
-              <a
-                href="https://instahyre-2.s3-ap-south-1.amazonaws.com/media/resume/688236/df39cc8228/Aayush_Kamboj.pdf"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <a href="ResumeBuild.pdf" target="_blank" rel="noreferrer">
                 RESUME
               </a>
             </li>
