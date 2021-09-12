@@ -192,8 +192,8 @@ function Projects() {
         <div className="project-description">
           <h1>Responsive Web Page</h1>
           <p>
-            Created a static clone of a conference landing page which which
-            responsive and adaptive accoding to the different mobile size.
+            Created a static clone of a conference landing page which is
+            responsive and adaptive accoding to the different screen sizes.
           </p>
           <a
             href="https://github.com/Ayushak18/ResponsivePageClone"
