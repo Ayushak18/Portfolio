@@ -10,10 +10,7 @@ function Projects() {
         </div>
         <div className="project-description">
           <h1>Portfolio</h1>
-          <p>
-            Created a static clone of a cleaning company which contains various
-            pages using HTML, CSS.
-          </p>
+          <p>Portfolio Website made with React JS.</p>
           <a
             href="https://github.com/Ayushak18/Portfolio"
             className="source-code"
@@ -166,8 +163,7 @@ function Projects() {
         <div className="project-description">
           <h1>JavaScript Clock</h1>
           <p>
-            Created a static clone of a cleaning company which contains various
-            pages using HTML, CSS.
+            Created a JavaScript Clock using DOM manipulation and animations.
           </p>
           <a
             href="https://github.com/Ayushak18/JavaScriptClock"
@@ -196,8 +192,8 @@ function Projects() {
         <div className="project-description">
           <h1>Responsive Web Page</h1>
           <p>
-            Created a static clone of a cleaning company which contains various
-            pages using HTML, CSS.
+            Created a static clone of a conference landing page which which
+            responsive and adaptive accoding to the different mobile size.
           </p>
           <a
             href="https://github.com/Ayushak18/ResponsivePageClone"
@@ -225,10 +221,7 @@ function Projects() {
         </div>
         <div className="project-description">
           <h1>Bookly</h1>
-          <p>
-            Created a static clone of a cleaning company which contains various
-            pages using HTML, CSS.
-          </p>
+          <p>Created a book store app using DOM manipulation.</p>
           <a
             href="https://github.com/Ayushak18/Bookly"
             className="source-code"
@@ -256,8 +249,8 @@ function Projects() {
         <div className="project-description">
           <h1>Game Of Thrones</h1>
           <p>
-            Created a static clone of a cleaning company which contains various
-            pages using HTML, CSS.
+            Created a dynamic web page of Game of Thrones using DOM
+            manipulation.
           </p>
           <a
             href="https://github.com/Ayushak18/GOT"
